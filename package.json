@@ -1,0 +1,18 @@
+{
+  "name": "loger",
+  "version": "1.0.0",
+  "description": "Records all raw data from DisocrdAPI",
+  "main": "index.js",
+  "repository": "https://github.com/yuta0801/loger.git",
+  "author": "yuta0801",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "mongodb": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
